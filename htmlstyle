@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GGM</title>
+</head>
+<body style="background-color: cornflowerblue;">
+    <style>
+        div {
+            width:500px;
+            margin:auto;
+            background-color: rgb(205, 252, 255);
+        }
+
+
+    </style>
+    <div>
+        <h2 style="color: darkolivegreen; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;">HALLOWEEN</h2>
+        <img src="c:\Users\chlar\Downloads\th.jfif" length="800" width="500">
+        <p style="color: forestgreen;">Halloween is a fantastic culture of Europe. But unfortunately, it is not well practiced in other parts of the world</p>
+        <p style="color: forestgreen;">I can an example for this, the country I am currently livivng in, obviously Ethiopia</p>
+        <p style="color: forestgreen;">Most of our people take it as a sort of childish thingy and barrier to our culture</p>
+        <p style="color: forestgreen;">But me personally,I think it is fun to and should be practiced more!</p>
+              <pre style="color: blueviolet; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: medium;">
+                What do you all think?
+              </pre>
+    </div>
+</body>
